@@ -1,4 +1,14 @@
 # PoojaPath
+
+### **Table of Contents**
+1. [Introduction](#introduction)  
+2. [Features](#features)  
+3. [Vision](#vision)  
+4. [Roadmap](#roadmap)  
+5. [Contribution Guidelines](#contribution-guidelines)   
+6. [Code of Conduct](#code-of-conduct)
+
+## Introduction:
 PoojaPath is an app designed to connect users with experienced service providers for performing religious rituals such as poojas, havans, and other rites, tailored to various faiths and traditions. The app simplifies the process of organizing spiritual ceremonies by allowing users to book professionals and optionally include the required materials for the rituals.
 
 ## Features:
@@ -45,4 +55,11 @@ We welcome contributions to make PoojaPath better! Here's how you can help:
     - Submit a pull request and describe your contribution.
 4. Documentation: Help us improve by writing clear and concise documentation.
 
-Feel free to explore our Code of Conduct to maintain a positive and inclusive community.
+Feel free to explore our [Code of Conduct](#code-of-conduct) to maintain a positive and inclusive community.
+
+## Code of Conduct 
+
+This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).  
+By participating, you are expected to uphold this code.  
+If you encounter any issues or have concerns, please contact us at [your-email@example.com].  
+
